@@ -17,7 +17,7 @@ let ctx = board.getContext("2d");
 function lose(){
 
     if(cordsx<0 || cordsx>600 || cordsy < 0 || cordsy>600){
-        window.location.assign("http://192.168.110.195:5500/html/index.html");
+        window.location.assign("https://github.com/AvetevA/snake-game-working-only-for-computers/html/index.html");
         
     }
 
